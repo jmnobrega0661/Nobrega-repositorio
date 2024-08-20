@@ -13,4 +13,6 @@ Formatos de arquivos de dados abertos - são aqueles que são desenvolvidos de m
 .ods (OpenDocument Spreadsheet)
 
 Implicações para dados públicos:
-Formatos proprietários -  Pode limitar a acessibilidade dos dados públicos, exigindo software específico e 
+Formatos proprietários -  Pode limitar a acessibilidade dos dados públicos, exigindo software específico e pode haver custos associados ao acesso e manipulação dos dados.
+Formatos abertos - romove a inclusão, permitindo que mais pessoas acessem e utilizem os dados; aumenta a transparência e a confiança pública, pois os dados podem ser verificados por qualquer pessoa e facilita a inovação, permitindo que desenvolvedores criem novas ferramentas e análises.
+
