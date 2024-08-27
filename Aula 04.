@@ -3,3 +3,6 @@ Python: Geralmente usado para desenvolvimento web, ciência de dados, inteligên
 JavaScript: Principalmente usado para desenvolvimento web, tanto no front-end (navegadores) quanto no back-end (Node.js). Sua sintaxe é flexível e dinâmica, com suporte a programação orientada a objetos e funcional. Suporta programação orientada a objetos, funcional e baseada em eventos. Rico em bibliotecas e frameworks como React, Angular e Vue.js para front-end, e Express para back-end. Muito eficiente para aplicações web interativas e em tempo real.
 Java: Usado em desenvolvimento de aplicações empresariais, Android, sistemas embarcados e grandes sistemas de backend. Sua sintaxe é estruturada e verbosa, com uma forte tipagem estática. Principalmente orientada a objetos, mas também suporta programação funcional. Possui um ecossistema robusto com frameworks como Spring para desenvolvimento web e Hibernate para ORM. Geralmente mais rápido que Python devido à compilação em bytecode e execução na JVM (Java Virtual Machine).
 Cada uma dessas linguagens tem suas próprias vantagens e é escolhida com base nas necessidades específicas do projeto. 
+Exemplo de código mínimo em Python: print("Hello, World!")
+Exemplo de código mínimo em JavaScript: console.log("Hello, World!");
+Exemplo de código mínimo em Java: public class HelloWorld {public static void main(String[] args) {
