@@ -1,0 +1,20 @@
+Implemente o algoritmo de ordenação Bubble Sort usando python:
+def bubble_sort(arr):
+    """
+    Implementação do algoritmo Bubble Sort.
+    :param arr: Lista de elementos a serem ordenados.
+    :return: Lista ordenada.
+    """
+    n = len(arr)
+    for i in range(n):
+        # Flag para otimizar o algoritmo (se não houver trocas, a lista já está ordenada)
+        swapped = False
+        for j in range(0, n - i - 1):
+            if arr[j] > arr[j + 1]:
+                # Troca os elementos
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+                swapped = True
+        if not swapped:
+            break  # Nenhuma troca ocorreu, a lista está ordenada
+    return arr
+
