@@ -1,0 +1,9 @@
+Implemente um algorítimo que imprima apenas as vogais de uma determinada palavra ou frase:
+def extrair_vogais(texto):
+    """
+    Extrai e imprime apenas as vogais do texto fornecido.
+    :param texto: Texto de entrada (string).
+    """
+    vogais = "aeiouAEIOU"
+    resultado = [char for char in texto if char in vogais]
+    print("Vogais no texto:", "".join(resultado))
